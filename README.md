@@ -23,7 +23,6 @@ Complete the following steps from the GitHub and GitHub Desktop Reference Guide:
 1. Commit your changes if you’ve made changes since the last commit.
 2. Push your changes to GitHub.
 3. Submit your assignment in BrightSpace:
-You can access the assignment submission tool by navigating to the week’s assignment in the Content Area, or by clicking on Assignments in the main menu. 
     * Click on the assignment submission link and follow the provided instructions. 
     * Don’t forget to answer the questions and attach the screenshots of your final W3 HTML and CSS validation results.
 4. If you have been using a lab computer at the Comox Valley Campus to do your work with GitHub Desktop, remember to shutdown or restart the computer before you leave the room, so that other students won’t have access to your repositories.
