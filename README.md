@@ -11,18 +11,14 @@ Create a page layout using floats, no flexbox allowed.
 
 Tips: 
 - Figure out your HTML structure for the whole page before you think about CSS
-- Make your HTML as semantically correct and streamlined as possible. Try using the button HTML element: https://www.w3schools.com/tags/tag_button.asp
+- Make your HTML as semantically correct and streamlined as possible. 
 - You can copy and paste lorem ipsum content from here: https://www.lipsum.com/feed/html
 - The images are available in the images folder
 - You can use any sans-serif font and pick any grays/orange that you like
 - Use the VSCode HTMLHint extension and the browser developer tools to help you debug your code
 - Remember that there are always many ways to code a layout
 
-### Step 2: Validate your work
-1. Go to https://validator.w3.org/#validate_by_upload to validate your HTML. Take a screenshot
-2. Go to https://jigsaw.w3.org/css-validator/#validate_by_upload to validate your CSS. Take a screenshot.
-
-### Step 3: Submit your work
+### Step 2: Submit your work
 Complete the following steps from the GitHub and GitHub Desktop Reference Guide:
 1. Commit your changes if you’ve made changes since the last commit.
 2. Push your changes to GitHub.
